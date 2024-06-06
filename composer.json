@@ -28,6 +28,12 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/burakkilinc-pa/laravel-iso-countries"
+        }
+    ],
     "require": {
         "php": "^8.2",
         "illuminate/contracts": "^7.0|^8.40|^9.0|^10.0|^11.0",
